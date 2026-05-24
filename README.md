@@ -28,7 +28,7 @@ A Machine Learning + NLP based Spam Email Classifier built using **TF-IDF Vector
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```bash
 Email Spam Detector/
@@ -39,6 +39,11 @@ Email Spam Detector/
 ├── models/
 │   ├── spam_model.pkl
 │   └── vectorizer.pkl
+│
+├── Screenshots/
+│   ├── 1.png
+│   ├── 2.png
+│   └── 3.png
 │
 ├── app.py
 ├── train.py
