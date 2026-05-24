@@ -172,13 +172,22 @@ Not Spam
 
 # 📸 Screenshots
 
-Add your screenshots here later.
+## Home Page
 
-Example:
+![Home Page](Screenshots/1.png)
 
-```markdown
-![App Screenshot](screenshots/app.png)
-```
+---
+
+## Spam Prediction
+
+![Spam Prediction](Screenshots/2.png)
+
+---
+
+## Not Spam Prediction
+
+![Not Spam Prediction](Screenshots/3.png)
+
 
 ---
 
